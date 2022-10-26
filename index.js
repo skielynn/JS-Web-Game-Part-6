@@ -12,7 +12,7 @@ npc.walkNorth(1400)
     .then(() => npc.walkSouth(1500))
     .then(() => npc.walkWest(2700))
     .then(() => npc.walkNorth(400))
-
+     
 
 // Create the inventory
 const inventory = newInventory()
